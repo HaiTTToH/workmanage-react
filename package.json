@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
+    "@capacitor/android": "^3.4.3",
+    "@capacitor/core": "^3.4.3",
     "@craco/craco": "^5.9.0",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -46,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "@capacitor/cli": "^3.4.3",
     "less": "^4.1.2",
     "less-loader": "^10.2.0"
   }
